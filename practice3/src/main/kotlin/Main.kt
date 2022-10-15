@@ -63,4 +63,3 @@ fun main(args: Array<String>) {
         sum = range*range
         println(sum)
     }
-     
